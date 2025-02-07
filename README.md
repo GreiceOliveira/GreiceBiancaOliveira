@@ -1,4 +1,4 @@
-# Greice Bianca Oliveira
+# GreiceOliveira
 ### 🤖 Linguagens e Tecnologias
 
 <img 
